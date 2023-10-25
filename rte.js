@@ -15,3 +15,6 @@ let s = {
     age: 20
 >>>>>>> 464ad01df39c9ea505c85e50598db2a80b9be97b
 };
+
+
+console.log("STRYFUIYHPIJ YGBIJPUJ GTEW23467");
